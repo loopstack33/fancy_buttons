@@ -1,0 +1,10 @@
+{
+"Simulator Target Bundle": "com.uts.utstrackingapp",
+"aps": {
+"alert": "Push-уведомление для симулятора!",
+"badge": 1,
+"sound": "default"
+}
+}
+
+
