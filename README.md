@@ -44,5 +44,5 @@ MyFancyButton(
 ```
 
 Screenshot
-:-------------------------:|:-------------------------:
+
 <img src="https://user-images.githubusercontent.com/99548269/205614250-c0af073b-1705-4781-957d-0ab59ef95408.png" align="center" style="width: 50%" />

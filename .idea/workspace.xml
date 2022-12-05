@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="101d08b4-6b60-4c2c-bd5e-f747d546e581" name="Changes" comment="readme" />
+    <list default="true" id="101d08b4-6b60-4c2c-bd5e-f747d546e581" name="Changes" comment="image added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670235705059</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="readme">
+      <created>1670235806529</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670235806529</updated>
+    </task>
+    <task id="LOCAL-00005" summary="image added">
+      <created>1670236057001</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670236057002</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit first" />
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="image added" />
+    <option name="LAST_COMMIT_MESSAGE" value="image added" />
   </component>
 </project>
