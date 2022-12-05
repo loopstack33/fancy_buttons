@@ -1,7 +1,7 @@
 name: fancy_button
 description: Fully Customizable Buttons
 version: 0.0.1
-homepage: https://github.com/loopstack33/my_fancy_buttons
+homepage: https://github.com/loopstack33/fancy_buttons
 
 environment:
   sdk: '>=2.18.4 <3.0.0'

@@ -1,39 +1,49 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# fancy_button
+[![Github stars](https://img.shields.io/github/stars/loopstack33/fancy_buttons?logo=github)](https://github.com/loopstack33/fancy_buttons)
+[![Pub Version](https://img.shields.io/pub/v/fancy_button?color=blue&logo=dart)](https://pub.dev/packages/fancy_button)
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+Fancy Buttons is a flutter widget library, include buttons for which is fully customizable and can be extended on request.
+No more extra hassle for all the extra working around with buttons.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
+## Installation
+1) Add this to your packages pubspec.yaml file:
+```yaml
+dependencies:
+  fancy_button: <latest version>
+```
+2) Install it
+   You can install it from the command line:
+```bash
+$ flutter pub get
+```
+3) Import it
+   Now in Dart code, you can use:
 ```dart
-const like = 'sample';
+import 'package:fancy_button/fancy_button.dart';
 ```
 
-## Additional information
+## Recommendation
+We recommend you to using the latest version.
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+## Using
+
+### Enabled State.
+
+You need to use just the following code:
+
+### Default Type
+
+```dart
+MyFancyButton(
+   isIconButton: isIconButton,
+   fontSize: fontSize,
+   text: text,
+   tap: tap,
+   buttonColor: buttonColor,
+   hasShadow: hasShadow),
+```
+
+Screenshots
+:-------------------------:|:-------------------------:
+
+[return up](#fancy_button)
