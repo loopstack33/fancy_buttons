@@ -9,7 +9,7 @@ No more extra hassle for all the extra working around with buttons.
 1) Add this to your packages pubspec.yaml file:
 ```yaml
 dependencies:
-  fancy_button: <latest version>
+   fancy_button_new: <latest version>
 ```
 2) Install it
    You can install it from the command line:
@@ -19,7 +19,7 @@ $ flutter pub get
 3) Import it
    Now in Dart code, you can use:
 ```dart
-import 'package:fancy_button/fancy_button.dart';
+import 'package:fancy_button_new/fancy_button_new.dart';
 ```
 
 ## Recommendation
@@ -43,5 +43,6 @@ MyFancyButton(
    hasShadow: hasShadow),
 ```
 
-Screenshots
+Screenshot
 :-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/99548269/205614250-c0af073b-1705-4781-957d-0ab59ef95408.png" align="center" style="width: 50%" />
