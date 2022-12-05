@@ -46,3 +46,90 @@ MyFancyButton(
 Screenshot
 
 <img src="https://user-images.githubusercontent.com/99548269/205614250-c0af073b-1705-4781-957d-0ab59ef95408.png" align="center" style="width: 50%" />
+
+### Simple Button
+
+```dart
+MyFancyButton(
+   isIconButton: false,
+   fontSize: 15,
+   text: "Simple Button",
+   tap: (){},
+   buttonColor: purpleLight,
+   hasShadow: false),
+```
+
+### Colored Button
+
+```dart
+ MyFancyButton(
+   isIconButton: false,
+   fontSize: 15,
+   text: "Colored Button",
+   tap: (){},
+   fontColor: Colors.white,
+   buttonColor: purpleColor,
+   hasShadow: false),
+```
+
+### Rounded Button
+
+```dart
+MyFancyButton(
+   isIconButton: false,
+   fontSize: 15,
+   borderRadius: 10,
+   text: "Rounded Button",
+   tap: (){},
+   fontColor: Colors.white,
+   buttonColor: gmail,
+   hasShadow: false),
+```
+
+### Shadow Button
+
+```dart
+MyFancyButton(
+   isIconButton: false,
+   fontSize: 15,
+   spreadRadius: 0,
+   blurRadius: 4,
+   offset: const Offset(0, 4),
+   shadowColor: Colors.black.withOpacity(0.25),
+   text: "Shadow Button",
+   tap: (){},
+   fontColor: Colors.white,
+   buttonColor: greenColor,
+   hasShadow: true),
+```
+
+### Image Button
+
+```dart
+MyFancyButton(
+   isIconButton: true,
+   image: "assets/icons/select.png",
+   imageHeight: 20,
+   imageWidth: 20,
+   fontSize: 15,
+   text: "Image Button",
+   tap: (){},
+   fontColor: Colors.white,
+   buttonColor: infoColor,
+   hasShadow: false),
+```
+
+### Outline Button
+
+```dart
+MyFancyButton(
+   isIconButton: false,
+   borderColor: Colors.white,
+   borderRadius: 10,
+   fontSize: 15,
+   text: "Outlined Button",
+   tap: (){},
+   fontColor: Colors.white,
+   buttonColor: black,
+   hasShadow: true),
+```
