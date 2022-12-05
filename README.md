@@ -1,6 +1,6 @@
-# fancy_button
+# fancy_button_new
 [![Github stars](https://img.shields.io/github/stars/loopstack33/fancy_buttons?logo=github)](https://github.com/loopstack33/fancy_buttons)
-[![Pub Version](https://img.shields.io/pub/v/fancy_button?color=blue&logo=dart)](https://pub.dev/packages/fancy_button)
+[![Pub Version](https://img.shields.io/pub/v/fancy_button_new?color=blue&logo=dart)](https://pub.dev/packages/fancy_button_new)
 
 Fancy Buttons is a flutter widget library, include buttons for which is fully customizable and can be extended on request.
 No more extra hassle for all the extra working around with buttons.
@@ -45,5 +45,3 @@ MyFancyButton(
 
 Screenshots
 :-------------------------:|:-------------------------:
-
-[return up](#fancy_button)
